@@ -5,3 +5,5 @@ This is a great fotball game.In the game, International Football League is about
 If you have any question zbout this game, please contact with us no hesitate.
 
 E-mail: xl95jj@163.com
+
+The game reference screenshots are as follows:
